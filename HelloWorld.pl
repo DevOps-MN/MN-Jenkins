@@ -1,8 +1,3 @@
-!/usr/bin/env perl
-use strict;
+#!/usr/bin/perl
 use warnings;
-# This is a comment 
-print "Hello world\n";
-print 42, "\n";
-
-print "This script is executed by Jenkins"
+print("Hello World\n");
