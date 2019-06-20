@@ -5,4 +5,4 @@ use warnings;
 print "Hello world\n";
 print 42, "\n";
 
-print "This script is executed by Jenkins"
+print "This script is executed by Jenkins".
